@@ -1,0 +1,46 @@
+_repo: Fairy-Tales-From-all-Nations_34956
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doyle, Richard
+    aliases:
+    - Kitcat, Dick
+    - Doyle, R. (Richard)
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montalba, Anthony R. (Anthony Reubens)
+    alias: Montalba, Anthony Reubens
+    gutenberg_agent_id: '37344'
+    url: http://www.gutenberg.org/2009/agents/37344
+description: ''
+gutenberg_issued: '2011-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: The birth of the fairy tale -- Snow-white and Rosy-red -- The story
+  of Argilius and the Flame-king -- Persevere and prosper -- Prince of the glow-worms
+  -- The two misers -- Prince Chaffinch -- The wolf and the nightingale -- The enchanted
+  crow -- The dragon-giant and his stone steed -- The story of Siva and Madhava --
+  The goblin bird -- The shepherd and the serpent -- The expeditious frog -- Eastward
+  of the sun, and westward of the moon -- The little man in grey -- Red, white, and
+  black -- The twelve lost princesses and the wizard king -- The study of magic under
+  difficulties -- Fortune's favourite -- The lucky days -- The feast of the dwarfs
+  -- The three dogs -- The courageous flute-player -- The glass hatchet -- The golden
+  duck -- Goldy -- The serpent prince -- The prophetic dream.
+title: Fairy Tales From all Nations
+url: http://www.gutenberg.org/ebooks/34956
